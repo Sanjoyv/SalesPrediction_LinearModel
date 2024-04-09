@@ -1,0 +1,28 @@
+# Basic Linear Model on Sales Dataset
+
+## Project Overview
+
+This project involves the development of a basic linear model to predict the most sales-generating media source. We have used a sales dataset for this purpose. The media sources considered in this project are Radio, Television, and Newspaper.
+
+## Methodology
+
+We have used a basic linear model for this project. The model takes into account various media sources (Radio, Television, and Newspaper) as independent variables and sales as the dependent variable. The model then predicts which media source has the most significant impact on sales.
+
+## Results
+
+The results of this project provide valuable insights into sales generation and can guide future advertising strategies. By understanding which media source generates the most sales, businesses can allocate their resources more effectively.
+
+## Future Work
+
+Future work on this project could involve refining the model with more data or exploring other types of models to improve prediction accuracy.
+
+## Getting Started
+
+1. Clone the repo: `git clone https://github.com/yourusername/your-repo-name.git`
+2. Install dependencies: `pip install -r requirements.txt`
+3. Run the script: `python script.py`
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
